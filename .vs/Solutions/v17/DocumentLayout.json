@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Utilities\\Solutions.Utility.Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E88800-53AA-E691-AC9B-B45C9CC5001F}|src\\Solutions.Utility.Manager\\Solutions.Utility.Manager.csproj|d:\\project\\utilities\\solutions.utility.manager\\src\\solutions.utility.manager\\docmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E88800-53AA-E691-AC9B-B45C9CC5001F}|src\\Solutions.Utility.Manager\\Solutions.Utility.Manager.csproj|solutionrelative:src\\solutions.utility.manager\\docmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E88800-53AA-E691-AC9B-B45C9CC5001F}|src\\Solutions.Utility.Manager\\Solutions.Utility.Manager.csproj|d:\\project\\utilities\\solutions.utility.manager\\src\\solutions.utility.manager\\stringmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E88800-53AA-E691-AC9B-B45C9CC5001F}|src\\Solutions.Utility.Manager\\Solutions.Utility.Manager.csproj|solutionrelative:src\\solutions.utility.manager\\stringmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E88800-53AA-E691-AC9B-B45C9CC5001F}|src\\Solutions.Utility.Manager\\Solutions.Utility.Manager.csproj|d:\\project\\utilities\\solutions.utility.manager\\src\\solutions.utility.manager\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E88800-53AA-E691-AC9B-B45C9CC5001F}|src\\Solutions.Utility.Manager\\Solutions.Utility.Manager.csproj|solutionrelative:src\\solutions.utility.manager\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringManager.cs",
+              "DocumentMoniker": "D:\\Project\\Utilities\\Solutions.Utility.Manager\\src\\Solutions.Utility.Manager\\StringManager.cs",
+              "RelativeDocumentMoniker": "src\\Solutions.Utility.Manager\\StringManager.cs",
+              "ToolTip": "D:\\Project\\Utilities\\Solutions.Utility.Manager\\src\\Solutions.Utility.Manager\\StringManager.cs",
+              "RelativeToolTip": "src\\Solutions.Utility.Manager\\StringManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:31:53.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoCmd.cs",
+              "DocumentMoniker": "D:\\Project\\Utilities\\Solutions.Utility.Manager\\src\\Solutions.Utility.Manager\\DoCmd.cs",
+              "RelativeDocumentMoniker": "src\\Solutions.Utility.Manager\\DoCmd.cs",
+              "ToolTip": "D:\\Project\\Utilities\\Solutions.Utility.Manager\\src\\Solutions.Utility.Manager\\DoCmd.cs",
+              "RelativeToolTip": "src\\Solutions.Utility.Manager\\DoCmd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:31:52.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\Project\\Utilities\\Solutions.Utility.Manager\\src\\Solutions.Utility.Manager\\Enums.cs",
+              "RelativeDocumentMoniker": "src\\Solutions.Utility.Manager\\Enums.cs",
+              "ToolTip": "D:\\Project\\Utilities\\Solutions.Utility.Manager\\src\\Solutions.Utility.Manager\\Enums.cs",
+              "RelativeToolTip": "src\\Solutions.Utility.Manager\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:31:49.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

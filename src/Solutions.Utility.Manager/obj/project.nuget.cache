@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "0pb/BPPibf4=",
+  "success": true,
+  "projectFilePath": "D:\\Project\\Utilities\\Solutions.Utility.Manager\\src\\Solutions.Utility.Manager\\Solutions.Utility.Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ta_jo\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.7\\microsoft.win32.systemevents.9.0.7.nupkg.sha512",
+    "C:\\Users\\ta_jo\\.nuget\\packages\\system.drawing.common\\9.0.7\\system.drawing.common.9.0.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json.",
+      "projectPath": "D:\\Project\\Utilities\\Solutions.Utility.Manager\\src\\Solutions.Utility.Manager\\Solutions.Utility.Manager.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Project\\Utilities\\Solutions.Utility.Manager\\src\\Solutions.Utility.Manager\\Solutions.Utility.Manager.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

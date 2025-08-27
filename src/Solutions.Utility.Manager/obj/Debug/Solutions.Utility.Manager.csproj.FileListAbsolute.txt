@@ -1,0 +1,6 @@
+D:\Project\Utilities\Utilities-Solutions.Utility.Manager\src\Solutions.Utility.Manager\bin\Debug\Solutions.Utility.Manager.dll
+D:\Project\Utilities\Utilities-Solutions.Utility.Manager\src\Solutions.Utility.Manager\bin\Debug\Solutions.Utility.Manager.pdb
+D:\Project\Utilities\Utilities-Solutions.Utility.Manager\src\Solutions.Utility.Manager\obj\Debug\Solutions.Utility.Manager.csproj.AssemblyReference.cache
+D:\Project\Utilities\Utilities-Solutions.Utility.Manager\src\Solutions.Utility.Manager\obj\Debug\Solutions.Utility.Manager.csproj.CoreCompileInputs.cache
+D:\Project\Utilities\Utilities-Solutions.Utility.Manager\src\Solutions.Utility.Manager\obj\Debug\Solutions.Utility.Manager.dll
+D:\Project\Utilities\Utilities-Solutions.Utility.Manager\src\Solutions.Utility.Manager\obj\Debug\Solutions.Utility.Manager.pdb

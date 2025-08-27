@@ -1,5 +1,9 @@
-﻿using System.Drawing;
+﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.IO;
 
 namespace Solutions.Utility.Manager
 {
@@ -33,7 +37,7 @@ namespace Solutions.Utility.Manager
             return Retorno;
         }
 
-        public static string? DBNullString(object value)
+        public static string DBNullString(object value)
         { return (value == null) ? string.Empty : value.ToString(); }
 
         public static int DBNullInteger(object value)
@@ -93,9 +97,9 @@ namespace Solutions.Utility.Manager
         public static string FormatNumber(object value, int numdecimal, bool symbol)
         {
             string retorno;
-            if (symbol) { retorno = decimal.Parse(value.ToString()!).ToString("C" + numdecimal.ToString()); }
+            if (symbol) { retorno = decimal.Parse(value.ToString()).ToString("C" + numdecimal.ToString()); }
             else
-            { retorno = decimal.Parse(value.ToString()!).ToString("F" + numdecimal.ToString()); }
+            { retorno = decimal.Parse(value.ToString()).ToString("F" + numdecimal.ToString()); }
             return retorno;
         }
 
@@ -108,6 +112,24 @@ namespace Solutions.Utility.Manager
 
         public static object InteractionChoose(double Index, params object[] Choice)
         { return Choice[(int)Index]; }
+
+        public static DataTable ToDataTable<T>(IList<T> data)
+        {
+            PropertyDescriptorCollection props = TypeDescriptor.GetProperties(typeof(T));
+            DataTable table = new DataTable();
+            for (int i = 0; i < props.Count; i++)
+            {
+                PropertyDescriptor prop = props[i];
+                table.Columns.Add(prop.Name, prop.PropertyType);
+            }
+            object[] values = new object[props.Count];
+            foreach (T item in data)
+            {
+                for (int i = 0; i < values.Length; i++) { values[i] = props[i].GetValue(item); }
+                table.Rows.Add(values);
+            }
+            return table;
+        }
 
         #endregion Interaction
 
